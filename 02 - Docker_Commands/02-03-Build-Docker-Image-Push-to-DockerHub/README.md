@@ -84,9 +84,7 @@ grep 'Secret Shop' home.html
 ```
 
 ## Step-04: Review Dockerfile (High-level)
-- We will discuss very high-level
-- In next demo `03_Docker_Files`, we are going to discuss in detail what is present in the Dockerfile, what are Docker Instructions everything in a detailed way
-- For now focus is on Build Docker Image, Push to Docker Hub is the scope of this demo.
+
 ```bash
 # Change Directory to UI Source folder
 cd /home/ec2-user/demo-docker-build/retail-store-sample-app-1.2.4/src/ui
