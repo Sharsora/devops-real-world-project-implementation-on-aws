@@ -9,7 +9,8 @@ This cloud-based setup will be used to run all Docker CLI and Compose demos — 
 - Do You Want to Know What Docker Concepts Power 
 This Real-World Retail Store Microservices Application?
 
-![Docker Concepts Covered](../../images/02-00-Docker-Concepts-Covered.png)
+<img width="1129" height="598" alt="image" src="https://github.com/user-attachments/assets/069efebe-8231-456b-9eeb-883dcc50e7b5" />
+
 
 ---
 
@@ -19,9 +20,8 @@ This Real-World Retail Store Microservices Application?
 - Connect via SSH
 - Install Docker on Amazon Linux 2023
 - Run a test container
-![Install Docker on EC2 Instance](../../images/02-01-Docker-install.png)
 
-
+<img width="1008" height="590" alt="image" src="https://github.com/user-attachments/assets/efd33884-7fc0-4061-9b6c-c4eb21b975d7" />
 
 ---
 
@@ -98,7 +98,8 @@ docker images
 ### 5. What Happens in the Background?
 When you run:
 
-![Docker Terminology](../../images/02-01-Docker-Terminology.png)
+<img width="1175" height="596" alt="image" src="https://github.com/user-attachments/assets/e5acd31b-52a2-4989-b147-84bedfdfb82f" />
+
 
 ```bash
 docker run hello-world
