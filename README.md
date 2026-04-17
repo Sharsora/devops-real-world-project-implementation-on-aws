@@ -38,16 +38,13 @@ This is a **10-container** app made up of:
 
 ## Step-03: Component Diagram
 
-> High-level view of services and their responsibilities
+<img width="579" height="602" alt="image" src="https://github.com/user-attachments/assets/5b143c4f-04ec-40ff-b9f3-0b614b23f688" />
 
-![Retail Store Component Diagram](../images/01-01-Retail-Store-Component-Diagram.png)
 
 ---
 
 ## Step-04: Architecture Diagram
 
-> Shows how services connect, communicate, and depend on each other
-
-![Retail Store Architecture Diagram](../images/01-02-Retail-store-Architecture-Diagram.png)
+<img width="1155" height="586" alt="image" src="https://github.com/user-attachments/assets/8aa75f27-1309-48b3-88bf-8ce0bd23ce35" />
 
 ---
