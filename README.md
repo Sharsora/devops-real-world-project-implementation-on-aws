@@ -1,5 +1,9 @@
 # Project: Retail Store Sample App
 
+
+<img width="983" height="591" alt="image" src="https://github.com/user-attachments/assets/a215399b-9afe-4a29-bbd0-a353efa88ef7" />
+
+
 In this section, we’ll introduce the **Retail Store Sample App** — a real-world, cloud-native microservices application built and maintained by AWS Containers team. We’ll use this app.
 
 ---
