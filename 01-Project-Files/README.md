@@ -3,6 +3,7 @@
 Welcome to the first section of our **DevOps Real-World Project Implementation on AWS** course!
 
 In this section, we’ll introduce the **Retail Store Sample App** — a real-world, cloud-native microservices application built and maintained by AWS Containers team.
+
 ---
 
 ## Step-01: What You’ll Learn
