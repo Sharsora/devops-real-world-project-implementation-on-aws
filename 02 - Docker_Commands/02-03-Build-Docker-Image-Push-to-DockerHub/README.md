@@ -229,7 +229,6 @@ docker push stacksimplify/retail-store-sample-ui:2.0.0
 ## Step-07: Verify the Docker Image on Docker Hub
 
 - Log in to Docker Hub and verify the image you have pushed.
-- Navigate to your repositories: [Docker Hub Repositories](https://hub.docker.com/repositories).
 
 ---
 
