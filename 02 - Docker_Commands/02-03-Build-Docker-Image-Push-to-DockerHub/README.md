@@ -12,14 +12,10 @@ description: "Learn how to build a Docker image, tag it, and push it to Docker H
 - Do You Want to Know What Docker Concepts Power 
 This Real-World Retail Store Microservices Application?
 
-![Docker Concepts Covered](../../images/02-00-Docker-Concepts-Covered.png)
+<img width="1137" height="597" alt="image" src="https://github.com/user-attachments/assets/3bcbb269-6175-4cb2-972a-19b7628968b1" />
 
 ---
-
-> **Important Note:** In the commands below, wherever you see `stacksimplify`, replace it with your Docker Hub username.
-
-![Docker Image Build and Push to Docker Hub](../../images/02-04-Docker-build-push.png)
-
+<img width="930" height="598" alt="image" src="https://github.com/user-attachments/assets/346741e6-f4f7-450d-9ff7-eb635c045be4" />
 
 ---
 
