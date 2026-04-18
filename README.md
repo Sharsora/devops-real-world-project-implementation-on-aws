@@ -354,3 +354,7 @@ In this section, we’ll introduce the **Retail Store Sample App** — a real-wo
    - GitOps workflows
 
 ---
+
+## Additional Reference
+Retail Store Sample App GitHub:
+- [https://github.com/aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app)
