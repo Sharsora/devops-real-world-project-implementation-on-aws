@@ -6,15 +6,6 @@ We’ll use `docker-compose.yaml` to define 10 interdependent services including
 
 ---
 
-## Docker Concepts Covered
-- Do You Want to Know What Docker Concepts Power 
-This Real-World Retail Store Microservices Application?
-
-![Docker Concepts Covered](../images/02-00-Docker-Concepts-Covered.png)
-
-
----
-
 ## Step-01: What is Docker Compose?
 Docker Compose is a tool for:
 - Defining **multi-container apps** in a single YAML file
@@ -22,19 +13,11 @@ Docker Compose is a tool for:
 - Running all services with **`docker compose up`**
 - Testing, tearing down, and rebuilding environments **easily**
 
-### Docker Compose File Review
-- [Retail Store Application - Docker Compose File](https://github.com/aws-containers/retail-store-sample-app/releases/download/v1.3.0/docker-compose.yaml)
-- [Retail Store Application - Docker Compose File - Local Copy](./docker-compose.yaml)
-
-### Retail Store Application - Architecture Overview
-![Retail Store Sample Application Architecture](../images/04-01-Retail-Store-Architecture-Diagram.png)
-
 ### Problems Without Docker Compose
-![Problems Without Docker Compose](../images/04-02-Why-Docker-Compose.png)
+<img width="1077" height="593" alt="image" src="https://github.com/user-attachments/assets/2492b607-60f1-4a72-a327-5692f0c04071" />
 
 ### How Docker Compose Solves It?
-![How Docker Compose Solves It?](../images/04-03-What-Docker-compose-provides.png)
-
+<img width="1100" height="604" alt="image" src="https://github.com/user-attachments/assets/650a505f-e938-4353-8a1b-45e3cd5d4b58" />
 
 ---
 
