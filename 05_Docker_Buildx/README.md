@@ -16,10 +16,12 @@ Create and push a **single tag** that contains **AMD64 + ARM64** images for your
 8. Access the app in your browser on ports **8888**
 
 ### Problem: How to build Multi-Platform Docker Images?
-- ![Problem: How to build Multi-Platform Docker Images?](../images/05-01-Multi-Platform-Docker-Images-Problem.png)
+<img width="1038" height="607" alt="image" src="https://github.com/user-attachments/assets/9f85e845-5230-4d04-8126-3b2f90b6c01c" />
+
 
 ### Solution: How to build Multi-Platform Docker Images?
-- ![Solution: How to build Multi-Platform Docker Images?](../images/05-02-Multi-Platform-Docker-Images-Solution.png)
+<img width="1039" height="607" alt="image" src="https://github.com/user-attachments/assets/2421712f-25f5-41fd-9b1e-bf3cd022e0ce" />
+
 
 ---
 
