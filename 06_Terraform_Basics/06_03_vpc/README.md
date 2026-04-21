@@ -1,4 +1,4 @@
-<img width="1035" height="602" alt="image" src="https://github.com/user-attachments/assets/3776061a-e11b-4ff4-98ea-8fe86cefa383" /># VPC Project using Terraform
+# VPC Project using Terraform
 
 This project demonstrates the core Terraform concepts by provisioning a **Virtual Private Cloud (VPC)** on AWS. 
 
