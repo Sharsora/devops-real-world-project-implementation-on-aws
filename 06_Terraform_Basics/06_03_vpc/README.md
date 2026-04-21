@@ -1,4 +1,4 @@
-# VPC Project using Terraform
+<img width="1035" height="602" alt="image" src="https://github.com/user-attachments/assets/3776061a-e11b-4ff4-98ea-8fe86cefa383" /># VPC Project using Terraform
 
 This project demonstrates the core Terraform concepts by provisioning a **Virtual Private Cloud (VPC)** on AWS. 
 
@@ -20,19 +20,19 @@ We’ll learn how to create a VPC using Terraform step by step while understandi
 --- 
 ### AWS VPC Architecture
 
-![Terraform Basic Concepts](../../images//06-03-01-VPC-Architecture.png)
+<img width="1022" height="606" alt="image" src="https://github.com/user-attachments/assets/9fae07bb-34da-40dd-b35b-81aed965f9e1" />
 
 --- 
 
 ### AWS VPC Traffic Flow
-![Terraform Execution Flow](../../images/06-03-02-VPC-Traffic-Flow.png)
+
+<img width="1035" height="602" alt="image" src="https://github.com/user-attachments/assets/479b0d00-8921-4a5d-b806-6d7786bdbc2b" />
 
 ---
 
 ### AWS VPC - Public and Private Subnet Routes
-![Terraform Execution Flow](../../images/06-03-03-VPC-Public-Private-Routes.png)
 
-
+<img width="1031" height="609" alt="image" src="https://github.com/user-attachments/assets/e1eabe30-7315-42af-a9cd-e96c1e01b009" />
 
 ---
 
@@ -158,7 +158,9 @@ terraform apply -auto-approve
 
 ## Step-10: State Management
 This project uses **local state file** (`terraform.tfstate`), stored in the working directory.
-![Terraform Local State File](../../images/06-03-04-Terraform-State.png)
+
+<img width="1046" height="596" alt="image" src="https://github.com/user-attachments/assets/8c09c9d2-f59c-4c98-a15e-54751a550c2e" />
+
 ```bash
 # Change Directory
 cd terraform-manifests
