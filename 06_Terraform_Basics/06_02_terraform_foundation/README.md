@@ -16,12 +16,11 @@ We’ll create an **S3 Bucket** on AWS with a **random suffix** to keep the name
 
 --- 
 
-![Terraform Basic Concepts](../../images/06-01-Terraform-Basics.png)
+<img width="973" height="608" alt="image" src="https://github.com/user-attachments/assets/ec0b9271-18b3-4ab1-82ba-fd4975c190bd" />
 
 --- 
 
-![Terraform Execution Flow](../../images/06-02-Terraform-Execution-Flow.png)
-
+<img width="985" height="604" alt="image" src="https://github.com/user-attachments/assets/0efc0810-51e9-4796-a810-b37abdeeb623" />
 
 ---
 
