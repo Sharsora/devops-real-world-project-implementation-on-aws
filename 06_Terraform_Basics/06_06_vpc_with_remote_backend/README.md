@@ -14,13 +14,14 @@
 --- 
 
 ### Terraform Local State File Challenges
-![Terraform Local State File Challenges](../../images/06-06_01_Terraform_Local_State_Challenges.png)
+
+<img width="990" height="603" alt="image" src="https://github.com/user-attachments/assets/c8e6f559-e743-45e4-b648-1d49f249a268" />
 
 ---
 
 ### Terraform Remote State File Features
-![Terraform Remote State File Features](../../images/06-06_02_Terraform_Remote_State_Features.png)
 
+<img width="1071" height="591" alt="image" src="https://github.com/user-attachments/assets/dd19337f-a387-4b12-ad2e-19cce29e894b" />
 
 ---
 
