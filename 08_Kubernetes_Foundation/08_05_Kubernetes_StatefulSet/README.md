@@ -130,6 +130,10 @@ spec:
           emptyDir: {}
 ```
 
+
+<img width="1585" height="906" alt="image" src="https://github.com/user-attachments/assets/6976b7d2-ab3e-4e82-a53a-7b74db702d1b" />
+
+
 ---
 
 ## Step-04: Apply All Manifests
