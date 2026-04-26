@@ -48,6 +48,9 @@ Under the container section, add:
 
 > This tells Kubernetes to load all key-value pairs from the ConfigMap as environment variables inside the container.
 
+> So when we reference that what happens is, it loads all the key value pairs from the config map and inject them.
+So when it is creating a pod, it will inject them as environment variables into your container inside that pod.
+So it's that simple. No need to define each variable one by one in your deployment file.
 ---
 
 ## **Step-03: Deploy and Verify**
