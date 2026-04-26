@@ -6,6 +6,9 @@ In this demo, we’ll learn how to use a **Kubernetes ConfigMap** to externalize
 
 ---
 
+<img width="1752" height="906" alt="image" src="https://github.com/user-attachments/assets/73f60ee6-af16-46f6-8e08-f738b399f34e" />
+
+
 ## **Step-01: Create ConfigMap**
 
 **Manifest:** `03_catalog_configmap.yaml`
