@@ -110,9 +110,7 @@ Update the **Catalog Deployment** to load both ConfigMap and Secret as environme
 
 ---
 
-<img width="785" height="468" alt="image" src="https://github.com/user-attachments/assets/b92e31bc-9a59-4229-9f41-36c9e88fbc0d" />
-
-
+<img width="1546" height="898" alt="image" src="https://github.com/user-attachments/assets/4c229373-7fb6-4d0b-8c61-2d6db6eab091" />
 
 ## **Step-05: Apply Manifests and Verify**
 
