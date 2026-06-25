@@ -185,10 +185,3 @@ When Ingress resources are deleted → ExternalDNS auto-removes the Route53 DNS 
 
 ---
 
-## ** Summary — What Students Learn**
-
-* How ExternalDNS integrates with EKS
-* How DNS auto-management works using annotations
-* How ALB + Ingress + Route53 + ExternalDNS form a production-grade setup
-* How to enable HTTPS using ACM certificates
-* How ExternalDNS manages record lifecycle (create/update/delete)
